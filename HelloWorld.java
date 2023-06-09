@@ -8,7 +8,7 @@ class HelloWorld {
 	  
 	  System.out.println("Hello, REDDY!");
 	   
-	     System.out.println("Hello, Thanks you");
+	   
     
 	}
 }
