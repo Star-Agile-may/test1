@@ -6,7 +6,11 @@ class HelloWorld {
 	  
 	  System.out.println("Hello, Hi!"); 
 	  
+
 	  System.out.println("Hello, Reddy!");
+
+	  System.out.println("Hello, REDYY!");
+
 	   
 	   
     
